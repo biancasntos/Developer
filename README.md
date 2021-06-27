@@ -2,7 +2,7 @@
   <img src="dev2.png" >
 </p>
 
-# Maxwell Avila Paparelli
+# Bianca dos Santos Paparelli
 
 
 * Aqui você encontra os meus projetos na área de Desenvolvimento Fullstack utilizando ferramentas como Java e Angular.
