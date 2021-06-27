@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dev2.png" >
+  <img src="header_linguagens_programacao_web.jpg" >
 </p>
 
 # Bianca dos Santos Paparelli
