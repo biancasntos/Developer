@@ -8,7 +8,7 @@
 * Aqui você encontra os meus projetos na área de Desenvolvimento Fullstack utilizando ferramentas como Java e Angular.
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/maxwell-avila-paparelli-69201b135)
+* [LinkedIn](https://www.linkedin.com/in/bianca-dos-santos-paparelli-23b471204/)
 * [Medium]()
 
 
