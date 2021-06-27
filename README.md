@@ -1,2 +1,15 @@
-# Developer
-Repositório destinado aos meus projetos de desenvolvimento Full-Stack
+<p align="center">
+  <img src="dev2.png" >
+</p>
+
+# Maxwell Avila Paparelli
+
+
+* Aqui você encontra os meus projetos na área de Desenvolvimento Fullstack utilizando ferramentas como Java e Angular.
+
+**Links:**
+* [LinkedIn](www.linkedin.com/in/bianca-paparelli-23b471204)
+* [Medium]()
+
+
+## Projetos:
