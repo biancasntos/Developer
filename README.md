@@ -14,4 +14,4 @@
 
 ## Projetos:
 ## Artigos:
-* Entendendo o que é Git e Github. [Clique aqui para visualizar](https://biancasantospaparelli.medium.com/entenda-o-que-%C3%A9-github-e-a-import%C3%A2ncia-dele-eff47279f7)
+* Entenda o que é Git e Github. [Clique aqui para visualizar](https://biancasantospaparelli.medium.com/entenda-o-que-%C3%A9-github-e-a-import%C3%A2ncia-dele-eff47279f7)
