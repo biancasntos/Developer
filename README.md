@@ -13,7 +13,7 @@
 
 
 ## Projetos:
-* Página "Sobre mim" criada em HTML e CSS [clique aqui](https://biancasntos.github.io/) para ver o repositório com o código [clique aqui]
+* Página "Sobre mim" criada em HTML e CSS [clique aqui](https://biancasntos.github.io/) para ver o repositório com o código [clique aqui](https://github.com/biancasntos/biancasntos.github.io)
 
 ## Artigos:
 * Entenda o que é Git e Github. [Clique aqui para visualizar](https://biancasantospaparelli.medium.com/entenda-o-que-%C3%A9-github-e-a-import%C3%A2ncia-dele-eff47279f7)
